@@ -1,2 +1,2 @@
 # Kirija
-Analiza cena kirija sa sajta Halo oglasi
+Aplikacija za prikaz i uporedjivanje kirija sa sajta Halo oglasi.
