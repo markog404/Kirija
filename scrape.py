@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas
-import matplotlib.pyplot as plt
-import plotly.express as px
 import os
 import time
 import datetime
